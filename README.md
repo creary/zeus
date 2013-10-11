@@ -44,7 +44,7 @@ Hadoop任务的自动调度
 3.将war包放在web容器下启动  
 快速预览方案能够启动web应用，使用shell脚本。但是不能使用其他更多功能(因为没有配置好)
 
-更多文档，请进入<a href="http://github.com/alibaba/zeus/wiki" target="_blank">文档首页</a> 
+更多文档，请进入<a href="https://github.com/shanyongwang/zeus/wiki" target="_blank">文档首页</a> 
 
 
 QQ交流群：336733312  
